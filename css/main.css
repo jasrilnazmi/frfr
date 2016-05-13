@@ -21,7 +21,7 @@ header h1 {
 }
 
 header nav {
-  display: flex;
+  display: inline;
   justify-content: flex-end;
 }
 
@@ -34,7 +34,7 @@ header p {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('http://thegreatsouthernbrainfart.com/wp-content/uploads/Record-Store.jpg');
+  background-image: url('http://s3.amazonaws.com/digitaltrends-uploads-prod/2015/12/17684958904_ad5a6c05ed_k.jpg');
   background-size: cover;
   color: #ffffff;
   height: 500px;
